@@ -1,0 +1,20 @@
+{
+  "name": "bitrex-data-collector",
+  "version": "1.0.0",
+  "description": "BFF for cloudhost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-serverless-express": "^3.0.2",
+    "body-parser": "^1.18.1",
+    "bunyan": "^1.8.10",
+    "express": "^4.15.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  },
+  "devDependencies": {}
+}
